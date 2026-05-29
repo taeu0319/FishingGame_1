@@ -55,12 +55,3 @@ IntelliJ, Eclipse, VS Code 등의 편집기를 사용 중이시라면 아래 방
 1. 초록색 **[<> Code]** 버튼을 눌러 프로젝트를 `ZIP`으로 다운로드하거나 클론(`git clone`)합니다.
 2. 사용 중인 IDE에서 프로젝트 폴더를 엽니다.
 3. `FishingGame.java` 파일을 열고, 코드 내부의 `main` 메서드 옆에 있는 **초록색 재생 버튼(Run)**을 클릭합니다.
-
-### ⌨️ 방법 3: 터미널 환경 (CLI)
-명령어 사용이 익숙하신 분들은 터미널에서 직접 컴파일하여 실행할 수 있습니다.
-```bash
-# 1. 파일 컴파일
-javac FishingGame.java
-
-# 2. 게임 실행
-java FishingGame
